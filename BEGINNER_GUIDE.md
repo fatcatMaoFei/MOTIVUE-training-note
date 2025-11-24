@@ -1,4 +1,6 @@
 # 零基础起步？先读这个（10 分钟懂本质）
+# <a id="chinese-version"></a>零基础起步？先读这个（10 分钟懂本质）
+- 语言：中文 | [English](#english-version)
 - 读完本页 -> 再看 `TRAINING_PHILOSOPHY.md`（进阶：疲劳管理、营养、行为系统）。
 - 目标：用最少概念让新人先懂「身体怎么动」「训练的业务流程」。
 
@@ -34,6 +36,10 @@
 3) 触发适应 = 系统检测到“这次负荷更重了”（身体感知“这很难”）。  
 4) 休息 + 适应 = 机器停机冷却、升级零件（组间休息几分钟、课间充分恢复）；长期重复，肌肉变粗、神经更会用力，下次同样重量更轻松 -> 再小幅加重/加次数，循环 = 变强。  
 - 所有训练都是在重复这一条生产线；知道目标肌肉的功能和发力方向，就能把“拉线”接对。
+- 其他类比帮助理解：
+  - 数学：像梯度下降，每次小步更新（微调重量/次数）以收敛到更强的“最优解”。
+  - 编程：像写 for 循环并在每次迭代做微小优化，保证不一次性 OOM（不过载），而是稳步迭代。
+  - 金融：像复利，周期性投入可恢复的“负荷”，累积的小幅超负荷 = 长期收益，过度投入则爆仓（过载）。
 
 ## 3. 能量从哪来？肌肉的「短期电池」
 - 肌糖原 = 肌肉里的短期电池，存碳水，为高强度收缩供电。
@@ -52,7 +58,8 @@
 
 ---
 
-# Quick Start (English, ~10 min)
+# <a id="english-version"></a>Quick Start (English, ~10 min)
+- Language: English | [中文](#chinese-version)
 - Read this first -> then see `TRAINING_PHILOSOPHY.md` (fatigue management, nutrition, behavior).
 - Goal: explain “how your body moves” and the training business loop with minimal jargon.
 
@@ -81,6 +88,10 @@ Think of a crane lifting loads or “leveling up” in a game:
 3) Trigger adaptation = system detects “load is heavier now” (body senses “this is hard”).  
 4) Rest + adapt = cool-down and upgrade parts (minutes between sets, full recovery between sessions); over time muscles thicken and neural drive improves, same load feels easier -> add a bit of weight/reps and repeat.  
 - Every program is this loop. When you know the target muscle’s function and pull direction, you’ve wired the “cable” correctly and can train any muscle.
+- Cross-domain analogies:
+  - Math: like gradient descent—tiny step increases (weight/reps) that stay within a recoverable “learning rate.”
+  - Programming: iterative loop with small optimizations each pass; avoid blowing memory/CPU (overtraining) by keeping each iteration bounded.
+  - Finance: compounding—regular, recoverable deposits of load create growth over time; over-leverage = margin call (overload and stall).
 
 ## 3. Energy: the short-term battery
 - Muscle glycogen = on-board carb battery for high-intensity contractions.
